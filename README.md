@@ -7,4 +7,4 @@ Descripción general:
 
 Consideraciones importantes:
 
-- Los archivos leen un dataset que se llama data.json, que debido al peso, pensé que no era la mejor idea subirlo al repo, por lo tanto se debe subir aparte y por favor cambiarle el nombre data.json.
+- Los archivos leen un dataset que se llama data.json, que debido al peso, pensé que no era la mejor idea subirlo al repo, por lo tanto se debe subir aparte y por favor ponerle de nombre data.json.
